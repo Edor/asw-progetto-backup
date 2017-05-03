@@ -16,4 +16,5 @@ N.B. se l'input non è presente nel DB, il controller restituisce NULL, che vien
 ** Esecuzione: **
 
 Lanciare lo script run.bat
+
 Richiede Gradle.
