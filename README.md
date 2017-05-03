@@ -12,7 +12,8 @@ Shared Repository cerca nel proprio DB registi in base al nome e film in base al
 
 N.B. se l'input non è presente nel DB, il controller restituisce NULL, che viene interpretato come un fallimento. Se si vogliono aggiungere altre ennuple, aggiungere codice al metodo init() di Shared Repository.
 
-* Esecuzione *
+
+** Esecuzione: **
 
 Lanciare lo script run.bat
 Richiede Gradle.
