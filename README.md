@@ -13,8 +13,15 @@ Shared Repository cerca nel proprio DB registi in base al nome e film in base al
 N.B. se l'input non è presente nel DB, il controller restituisce NULL, che viene interpretato come un fallimento. Se si vogliono aggiungere altre ennuple, aggiungere codice al metodo init() di Shared Repository.
 
 
+
 ** Esecuzione: **
 
 Lanciare lo script run.bat
 
 Richiede Gradle.
+
+
+
+** Utilizzo: **
+
+Nel DB è presente solo il regista "Tarantino" con i film "Pulp Fiction" e "Hateful Eight", con i relativi premi.
